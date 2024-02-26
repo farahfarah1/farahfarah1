@@ -4,8 +4,6 @@
 <h3 align="center">I'm a Software Engineer from Lebanon, having 1 year of research, and 3+ years of software development experience.</h3>
 
 
-- 🔭 I’m currently working on **Vodafone Wallet Lite project**
-
 - 🌱 I’m currently learning **Master Animations**
 
 - 💬 Ask me about **Any Topic**
